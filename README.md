@@ -1,2 +1,0 @@
-# git_assignment_HeroVired
-Git_Assignment
